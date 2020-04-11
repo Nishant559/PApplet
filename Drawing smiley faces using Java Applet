@@ -1,5 +1,4 @@
 package guimodule;
-
 import processing.core.PApplet;
 
 public class MyDisplay extends PApplet {
